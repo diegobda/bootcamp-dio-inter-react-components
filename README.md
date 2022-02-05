@@ -13,7 +13,7 @@ cards , Buttons, Itens, esqueleto de uma construção de elementos para o layout
 <body className='containner'>
 
   <div>
-  <img src="https://raw.githubusercontent.com/diegobda/bootcamp-dio-inter-react-components/main/home.jpg">
+  <img src="https://raw.githubusercontent.com/diegobda/bootcamp-dio-inter-react-components/main/home1.jpg">
   </div>
   
 </body>
